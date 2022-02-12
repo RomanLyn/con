@@ -1,3 +1,3 @@
 select * 
 from ggg
-where d1=15
+where d1=152
